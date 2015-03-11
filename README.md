@@ -23,6 +23,7 @@ divide_core.py -> Given the matrices (graphs) it evaluates the k-core decomposit
 
 1core_matr.py, 1matrice.txt -> The divide_core.py scrip calls for each matrix this other script that performs the k-pruning algorithm on the graph.
 
+coreb3.py -> All together, given a set of proteins, for each protein this script builds a graph, evaluates the distribution of amino acids, evaluates the k-core decomposition. It prints the results on file.
 
 
 
