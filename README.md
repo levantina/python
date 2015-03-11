@@ -7,7 +7,9 @@ In particular I analyzed the set of disordered proteins (Dis Prot) downloaded fr
 
 disprot_4.5_fastaA.txt -> The set of disordered proteins in FASTA format.
 
-conta.py, lunghezze.py -> It extract the distribution of the size of a set of proteins.
+conta.py, lunghezze.py -> It extracts the distribution of the size of a set of proteins.
+
+distribuzione.py, distribuzione>.py -> It extracts the distribution (and the cumulative distribution) of amino acids in a set of proteins.
 
 - From the protein to the graph:
 	
